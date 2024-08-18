@@ -1,0 +1,19 @@
+.hello {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  font-size: 3em;
+}
+  
+button {
+  padding: 10px 20px;
+  font-size: 1.2em;
+}
+
+body {
+  font-family: arial;
+  padding: 1em;
+}
+
+.new-class{
+  background: rgb(109, 177, 255);
+}

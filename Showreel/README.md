@@ -1,0 +1,1 @@
+Static websites I did
