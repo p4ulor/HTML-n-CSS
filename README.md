@@ -1,4 +1,4 @@
-- Notes, demos & explanation of stuff about HTML & CSS and some JavaScript.
+- Notes, demos & explanation of stuff about HTML & CSS and some JavaScript (mainly for the purposes of interacting with HTML and CSS)
 - It's recommended to open this repo using VSC. The editor comes built-in with documentation of the various commands and elements, which can be viewed when hovering the cover over them
 
 ## Online sandboxes
@@ -12,6 +12,7 @@
 - https://www.w3schools.com/html/default.asp
 - https://www.freeformatter.com/html-entities.html (to display special characters)
 - https://learn-html.org/
+- https://html.com/
 
 ## Resources CSS
 - https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -56,5 +57,5 @@
 - https://www.xiconeditor.com/
 
 ## Shortcut to run .html page in new tab through terminal
-- `start .\index.html` -> Windows
-- `open ./index.html` -> Linux
+- Windows -> `start .\index.html`
+- Linux -> `open ./index.html`
